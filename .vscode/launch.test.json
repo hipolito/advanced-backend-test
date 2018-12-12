@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "project",
+                "projectName": "project",
+                "workingDirectory": "d:\\Users\\hipolito\\Workspaces\\ifood\\ifood-backend-advanced-test\\project",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "project",
+                "projectName": "project",
+                "workingDirectory": "d:\\Users\\hipolito\\Workspaces\\ifood\\ifood-backend-advanced-test\\project",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}

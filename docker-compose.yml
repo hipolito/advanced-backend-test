@@ -1,0 +1,12 @@
+version: '2'
+services:
+  redis:
+    image: redis:latest
+    restart: always
+
+  project:
+    build: project
+    ports:
+      - 8080:8080
+    links:
+      - redis
